@@ -1,7 +1,7 @@
 ## Oioi! Eu sou o Marcos Rebouças 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/markinhosreed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marcoreboucas])
 
 ## Tecnologias que já utilizei na minha vida profissional
 
