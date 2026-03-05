@@ -12,9 +12,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div>
-<a href="https://github.com/SEUUSUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosReboucasDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosReboucasDS&layout=pie&theme=tokyonight"/>
+<a href="https://github.com/MarcosReboucasDS">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosReboucasDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosReboucasDS&layout=pie&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ---
