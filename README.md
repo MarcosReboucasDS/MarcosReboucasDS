@@ -1,16 +1,38 @@
-## Oioi! Eu sou o Marcos Rebouças 😃
+# 👋 Olá! Eu sou o Marcos Rebouças
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/markinhosred)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marcoreboucas])
+💻 Estudante da área de Tecnologia apaixonado por programação, computação e desenvolvimento de software.  
+🚀 Sempre buscando aprender novas tecnologias e transformar ideias em projetos reais.  
+📚 Aqui no GitHub você encontrará projetos acadêmicos, estudos e experimentos que fazem parte da minha jornada na área de tecnologia.
 
-## Tecnologias que já utilizei na minha vida profissional
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=black" />
-</div><br/>
+## 🧠 Tecnologias e Interesses
 
-💻 Dev iniciante, estudante de Ciência da Computação pela Universidade Católica de Santos.
+- Programação
+- Lógica Computacional
+- Desenvolvimento de Software
+- Algoritmos
+- Computação
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosReboucasDS&show_icons=true&theme=tokyonight)
+
+---
+
+## 🥧 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=pie&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: (coloque seu link aqui)  
+📧 Email: (opcional)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
